@@ -1,0 +1,25 @@
+============AppEnvironment-Begin============
+PackageName:com.transsnet.store
+AppVersionName:9.2.1.212
+AppVersionCode:9201212
+FingerPrint:TECNO/CE8-GL/TECNO-CE8:10/QP1A.190711.020/220919V437:user/release-keys
+应用启动时间:2024-06-12_12:21:10.807
+============AppEnvironment-End============
+2024-06-13_00:22:26.515 8104-main-2  e TranssSUN_ScanTask: : checkTimeOk=false
+=======
+
+2024-06-13_00:22:27.030 8104-main-2  e _tr_install_request: : load install data......
+=======
+
+2024-06-13_00:22:27.035 8104-main-2  e _tr_install_request: : ew -->  requestPeriod:86400000
+=======
+
+2024-06-13_00:22:27.040 8104-main-2  e _tr_install_request: : ew -->  new requestPeriod is too short......
+=======
+
+2024-06-13_00:22:27.046 8104-main-2  e _tr_install_request: : ps -->  requestPeriod:86400000
+=======
+
+2024-06-13_00:22:27.052 8104-main-2  e _tr_install_request: : ps --> new requestPeriod is too short......
+=======
+
